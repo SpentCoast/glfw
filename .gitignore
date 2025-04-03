@@ -1,6 +1,6 @@
 # Directories
-bin/
-bin-int/
+bin/Debug-windows-x86_64/GLFW
+bin-int/Debug-windows-x86_64/GLFW
 
 # Files
 *.user
